@@ -8,7 +8,7 @@
 <script>
 /**
  * @ : vue cli가 자체적으로
- * src 디렉토리와 연결해놓은 문자열!!
+ * src 디렉토리와 연결해놓은 문자열!
  *
  * @/components/Header.vue :
  * src 아래에 있는
