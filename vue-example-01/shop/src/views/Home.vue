@@ -1,13 +1,16 @@
 <template>
   <div class="home">
-    home page
+    <SliderBanner/>
   </div>
 </template>
 
 <script>
+import SliderBanner from "@/components/home/SliderBanner";
 
 export default {
-  name: 'Home',
-  components: {}
+  name: 'home',
+  components: {
+    SliderBanner
+  }
 }
 </script>
